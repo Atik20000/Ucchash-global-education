@@ -1,0 +1,819 @@
+{
+  "title": "IELTS Academic Mock Test 01",
+  "description": "Complete IELTS Academic practice test with Listening, Reading, and Writing sections. Target band: 6.0 - 8.0",
+  "listeningQuestions": [
+    {
+      "sectionNumber": 1,
+      "questionNumber": 1,
+      "questionType": "form_completion",
+      "questionText": "Customer's surname: ______",
+      "correctAnswer": "Hartley",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 2,
+      "questionType": "form_completion",
+      "questionText": "Type of membership required: ______ membership",
+      "correctAnswer": "annual",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 3,
+      "questionType": "form_completion",
+      "questionText": "Preferred day for classes: ______",
+      "correctAnswer": "Wednesday",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 4,
+      "questionType": "form_completion",
+      "questionText": "Number of people in the group: ______",
+      "correctAnswer": "4",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 5,
+      "questionType": "form_completion",
+      "questionText": "Activity selected: ______",
+      "correctAnswer": "swimming",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 6,
+      "questionType": "form_completion",
+      "questionText": "Start time requested: ______",
+      "correctAnswer": "7:30",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 7,
+      "questionType": "form_completion",
+      "questionText": "Special requirement noted: ______ access",
+      "correctAnswer": "wheelchair",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 8,
+      "questionType": "form_completion",
+      "questionText": "Method of payment: ______",
+      "correctAnswer": "direct debit",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 9,
+      "questionType": "form_completion",
+      "questionText": "Discount code applied: ______",
+      "correctAnswer": "SPRING20",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 1,
+      "questionNumber": 10,
+      "questionType": "form_completion",
+      "questionText": "Total cost per month: £______",
+      "correctAnswer": "45",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 11,
+      "questionType": "multiple_choice",
+      "questionText": "The nature reserve was originally established to",
+      "options": [
+        "protect an endangered species of bird",
+        "preserve rare wetland habitat",
+        "provide a recreational space for local residents"
+      ],
+      "correctAnswer": "preserve rare wetland habitat",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 12,
+      "questionType": "multiple_choice",
+      "questionText": "The guided tours are available",
+      "options": [
+        "every day of the week",
+        "on weekends only",
+        "on weekdays only"
+      ],
+      "correctAnswer": "on weekends only",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 13,
+      "questionType": "multiple_choice",
+      "questionText": "Visitors are advised to bring",
+      "options": [
+        "binoculars and a waterproof jacket",
+        "sunscreen and a hat",
+        "sturdy footwear and insect repellent"
+      ],
+      "correctAnswer": "sturdy footwear and insect repellent",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 14,
+      "questionType": "multiple_choice",
+      "questionText": "The reserve's main funding currently comes from",
+      "options": [
+        "central government grants",
+        "visitor entrance fees and donations",
+        "a local council subsidy"
+      ],
+      "correctAnswer": "visitor entrance fees and donations",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 15,
+      "questionType": "multiple_choice",
+      "questionText": "The new education centre will be opened",
+      "options": [
+        "next spring",
+        "this summer",
+        "next autumn"
+      ],
+      "correctAnswer": "next spring",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 16,
+      "questionType": "multiple_choice",
+      "questionText": "Which activity is NOT currently available at the reserve?",
+      "options": [
+        "photography workshops",
+        "night-time bat watching",
+        "kayaking on the lake"
+      ],
+      "correctAnswer": "kayaking on the lake",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 17,
+      "questionType": "multiple_choice",
+      "questionText": "The reserve management is most concerned about",
+      "options": [
+        "litter left by visitors",
+        "the spread of an invasive plant species",
+        "damage caused by dogs off leads"
+      ],
+      "correctAnswer": "the spread of an invasive plant species",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 18,
+      "questionType": "multiple_choice",
+      "questionText": "Volunteers at the reserve are mainly involved in",
+      "options": [
+        "fundraising activities",
+        "habitat restoration work",
+        "leading school visits"
+      ],
+      "correctAnswer": "habitat restoration work",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 19,
+      "questionType": "multiple_choice",
+      "questionText": "How many species of butterfly have been recorded at the reserve?",
+      "options": [
+        "28",
+        "34",
+        "42"
+      ],
+      "correctAnswer": "42",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 2,
+      "questionNumber": 20,
+      "questionType": "multiple_choice",
+      "questionText": "The speaker recommends visiting the reserve",
+      "options": [
+        "early in the morning during spring",
+        "at midday in midsummer",
+        "late afternoon in autumn"
+      ],
+      "correctAnswer": "early in the morning during spring",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose the correct letter, A, B or C."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 21,
+      "questionType": "matching",
+      "questionText": "Introduced a congestion pricing scheme that significantly reduced private car use in the central zone.",
+      "options": [
+        "Tokyo",
+        "Amsterdam",
+        "Bogotá",
+        "Singapore",
+        "Nairobi",
+        "Melbourne"
+      ],
+      "correctAnswer": "Singapore",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Match each research finding (21–26) with the city it refers to. Cities: A – Tokyo, B – Amsterdam, C – Bogotá, D – Singapore, E – Nairobi, F – Melbourne"
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 22,
+      "questionType": "matching",
+      "questionText": "Developed an extensive cycling infrastructure that now accounts for over 30% of all commuter trips.",
+      "options": [
+        "Tokyo",
+        "Amsterdam",
+        "Bogotá",
+        "Singapore",
+        "Nairobi",
+        "Melbourne"
+      ],
+      "correctAnswer": "Amsterdam",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Match each research finding with the city it refers to."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 23,
+      "questionType": "matching",
+      "questionText": "Implemented a Bus Rapid Transit system that became a model for other cities in the developing world.",
+      "options": [
+        "Tokyo",
+        "Amsterdam",
+        "Bogotá",
+        "Singapore",
+        "Nairobi",
+        "Melbourne"
+      ],
+      "correctAnswer": "Bogotá",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Match each research finding with the city it refers to."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 24,
+      "questionType": "matching",
+      "questionText": "Has the highest proportion of underground metro ridership relative to population in the world.",
+      "options": [
+        "Tokyo",
+        "Amsterdam",
+        "Bogotá",
+        "Singapore",
+        "Nairobi",
+        "Melbourne"
+      ],
+      "correctAnswer": "Tokyo",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Match each research finding with the city it refers to."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 25,
+      "questionType": "matching",
+      "questionText": "Faces the challenge of an expanding city boundary outpacing its tram network expansion.",
+      "options": [
+        "Tokyo",
+        "Amsterdam",
+        "Bogotá",
+        "Singapore",
+        "Nairobi",
+        "Melbourne"
+      ],
+      "correctAnswer": "Melbourne",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Match each research finding with the city it refers to."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 26,
+      "questionType": "matching",
+      "questionText": "Relies heavily on informal minibus transport due to insufficient public infrastructure investment.",
+      "options": [
+        "Tokyo",
+        "Amsterdam",
+        "Bogotá",
+        "Singapore",
+        "Nairobi",
+        "Melbourne"
+      ],
+      "correctAnswer": "Nairobi",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Match each research finding with the city it refers to."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 27,
+      "questionType": "multiple_choice",
+      "questionText": "Which FOUR challenges do the students agree need further investigation? (Select B, C, D, F)",
+      "options": [
+        "the environmental impact of electric buses",
+        "the role of autonomous vehicles",
+        "accessibility for elderly and disabled passengers",
+        "integration of different transport modes",
+        "the psychology of commuter behaviour",
+        "transport equity in low-income areas",
+        "real-time data collection methods"
+      ],
+      "correctAnswer": "the role of autonomous vehicles",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose FOUR letters A–G."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 28,
+      "questionType": "multiple_choice",
+      "questionText": "Which FOUR challenges do the students agree need further investigation? (Select B, C, D, F)",
+      "options": [
+        "the environmental impact of electric buses",
+        "the role of autonomous vehicles",
+        "accessibility for elderly and disabled passengers",
+        "integration of different transport modes",
+        "the psychology of commuter behaviour",
+        "transport equity in low-income areas",
+        "real-time data collection methods"
+      ],
+      "correctAnswer": "accessibility for elderly and disabled passengers",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose FOUR letters A–G."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 29,
+      "questionType": "multiple_choice",
+      "questionText": "Which FOUR challenges do the students agree need further investigation? (Select B, C, D, F)",
+      "options": [
+        "the environmental impact of electric buses",
+        "the role of autonomous vehicles",
+        "accessibility for elderly and disabled passengers",
+        "integration of different transport modes",
+        "the psychology of commuter behaviour",
+        "transport equity in low-income areas",
+        "real-time data collection methods"
+      ],
+      "correctAnswer": "integration of different transport modes",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose FOUR letters A–G."
+    },
+    {
+      "sectionNumber": 3,
+      "questionNumber": 30,
+      "questionType": "multiple_choice",
+      "questionText": "Which FOUR challenges do the students agree need further investigation? (Select B, C, D, F)",
+      "options": [
+        "the environmental impact of electric buses",
+        "the role of autonomous vehicles",
+        "accessibility for elderly and disabled passengers",
+        "integration of different transport modes",
+        "the psychology of commuter behaviour",
+        "transport equity in low-income areas",
+        "real-time data collection methods"
+      ],
+      "correctAnswer": "transport equity in low-income areas",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Choose FOUR letters A–G."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 31,
+      "questionType": "note_completion",
+      "questionText": "Urban heat islands are areas where temperatures can be up to ______ °C higher than surrounding rural areas.",
+      "correctAnswer": "10",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 32,
+      "questionType": "note_completion",
+      "questionText": "The primary cause of UHI is the replacement of natural surfaces with ______ materials.",
+      "correctAnswer": "impervious",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 33,
+      "questionType": "note_completion",
+      "questionText": "Dark surfaces such as asphalt absorb up to ______% of solar radiation.",
+      "correctAnswer": "95",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 34,
+      "questionType": "note_completion",
+      "questionText": "The UHI effect is most intense during ______ clear nights.",
+      "correctAnswer": "calm",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 35,
+      "questionType": "note_completion",
+      "questionText": "One major health consequence associated with severe UHI is increased risk of ______.",
+      "correctAnswer": "heat stroke",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 36,
+      "questionType": "note_completion",
+      "questionText": "One recommended mitigation strategy is the installation of ______ roofs.",
+      "correctAnswer": "green",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 37,
+      "questionType": "note_completion",
+      "questionText": "Planting ______ trees along streets helps to reduce surface temperatures through shading and evapotranspiration.",
+      "correctAnswer": "deciduous",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 38,
+      "questionType": "note_completion",
+      "questionText": "A study in Phoenix, Arizona found that increasing urban vegetation by 25% could lower peak temperatures by ______ °C.",
+      "correctAnswer": "3.5",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 39,
+      "questionType": "note_completion",
+      "questionText": "The concept of ______ pavements involves using light-coloured materials to reflect sunlight.",
+      "correctAnswer": "cool",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    },
+    {
+      "sectionNumber": 4,
+      "questionNumber": 40,
+      "questionType": "note_completion",
+      "questionText": "The lecturer suggests that future UHI research should focus on the relationship between heat islands and ______.",
+      "correctAnswer": "air quality",
+      "audioUrl": "https://www.youtube.com/watch?v=KKTxJAq9UpU",
+      "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
+    }
+  ],
+  "readingPassages": [
+    {
+      "passageNumber": 1,
+      "title": "The Evolution of Glass Manufacturing",
+      "passageText": "Glass is one of the oldest manufactured materials in human history, with evidence of its production dating back over 3,500 years to ancient Mesopotamia and Egypt. Early glass was predominantly used for decorative purposes, fashioned into beads and small vessels. The process was laborious, involving the melting of silica sand with soda ash and limestone at extremely high temperatures — a combination that remains largely unchanged in principle today.\n\nThe Roman Empire played a pivotal role in advancing glass technology. Around the first century BCE, Syrian craftsmen on the eastern Mediterranean coast invented the technique of glassblowing, which involved gathering molten glass on the end of a hollow iron pipe and inflating it to create hollow forms. This innovation dramatically reduced the time and cost of production, making glass vessels available to ordinary citizens for the first time, rather than just the wealthy. Roman glassblowers could also shape glass into flat panes using the broad cylinder method: they would blow a cylinder, cut it open, and flatten it in a kiln. This early flat glass was used in the windows of Roman villas and bathhouses.\n\nFollowing the decline of the Roman Empire, glassmaking expertise became concentrated in Constantinople and the Islamic world. Venetian craftsmen eventually rose to prominence, particularly after the glassmaking industry was relocated to the island of Murano in 1291. The Venetian authorities, acutely aware of the commercial and strategic value of their glassmakers' knowledge, passed laws forbidding glassworkers from leaving the Republic on pain of death. This protectionist policy succeeded in preserving Venice's monopoly on high-quality glass for nearly three centuries.\n\nThe Industrial Revolution brought transformative changes to glass production. In 1887, the British engineer Ashley invented the first semi-automatic bottle-blowing machine, which could produce bottles far more rapidly than any human glassblower. By the early twentieth century, fully automated glass-forming machines had been developed. The float glass process, invented by Sir Alastair Pilkington in 1952, represented perhaps the most significant advance in flat glass manufacture in modern times. By pouring molten glass onto a bath of molten tin, the process produced sheets of uniform thickness and optical clarity that were previously unachievable. The float glass process is now used to manufacture approximately 90% of the world's flat glass.\n\nContemporary glass science has moved far beyond traditional silicate compositions. Borosilicate glass, known commercially as Pyrex, was developed in the early twentieth century and is prized for its low thermal expansion coefficient, making it resistant to thermal shock. This property has made it invaluable in laboratory settings and kitchen applications. More recently, chemically strengthened glass — created by immersing glass in a potassium salt bath — has become ubiquitous in smartphones and tablet computers, capable of withstanding significant impacts without shattering.\n\nThe sustainability of glass production has come under increasing scrutiny. Glass manufacturing is highly energy-intensive, requiring furnace temperatures of around 1,500°C. However, glass is infinitely recyclable without any loss of quality — a significant advantage over many other materials. In many European countries, glass recycling rates exceed 70%, and recycled glass, known as cullet, reduces furnace temperatures needed and lowers CO₂ emissions by approximately 5% for every 10% of cullet used. Researchers are also investigating the potential of using solar energy to power glass furnaces, which could dramatically reduce the industry's carbon footprint in the coming decades.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionType": "true_false_not_given",
+          "questionText": "The basic ingredients used in glass production today are fundamentally different from those used in ancient times.",
+          "correctAnswer": "FALSE",
+          "instruction": "Do the following statements agree with the information in the passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this."
+        },
+        {
+          "questionNumber": 2,
+          "questionType": "true_false_not_given",
+          "questionText": "The invention of glassblowing made glass products accessible to people who were not wealthy.",
+          "correctAnswer": "TRUE"
+        },
+        {
+          "questionNumber": 3,
+          "questionType": "true_false_not_given",
+          "questionText": "Venetian glassmakers were legally prevented from sharing their skills outside the Republic.",
+          "correctAnswer": "TRUE"
+        },
+        {
+          "questionNumber": 4,
+          "questionType": "true_false_not_given",
+          "questionText": "Venice maintained its monopoly on glass production for more than four centuries.",
+          "correctAnswer": "FALSE"
+        },
+        {
+          "questionNumber": 5,
+          "questionType": "true_false_not_given",
+          "questionText": "Sir Alastair Pilkington developed the float glass process in partnership with a team of engineers.",
+          "correctAnswer": "NOT GIVEN"
+        },
+        {
+          "questionNumber": 6,
+          "questionType": "true_false_not_given",
+          "questionText": "Borosilicate glass is more commonly used in construction than in laboratory equipment.",
+          "correctAnswer": "NOT GIVEN"
+        },
+        {
+          "questionNumber": 7,
+          "questionType": "sentence_completion",
+          "questionText": "What two ancient civilisations are cited as the earliest producers of glass?",
+          "correctAnswer": "Mesopotamia and Egypt",
+          "instruction": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer."
+        },
+        {
+          "questionNumber": 8,
+          "questionType": "sentence_completion",
+          "questionText": "Where was the technique of glassblowing invented?",
+          "correctAnswer": "eastern Mediterranean coast"
+        },
+        {
+          "questionNumber": 9,
+          "questionType": "sentence_completion",
+          "questionText": "To what island was the Venetian glass industry relocated in 1291?",
+          "correctAnswer": "Murano"
+        },
+        {
+          "questionNumber": 10,
+          "questionType": "sentence_completion",
+          "questionText": "What substance is molten glass poured onto during the float glass process?",
+          "correctAnswer": "molten tin"
+        },
+        {
+          "questionNumber": 11,
+          "questionType": "sentence_completion",
+          "questionText": "What property makes borosilicate glass resistant to thermal shock?",
+          "correctAnswer": "low thermal expansion coefficient"
+        },
+        {
+          "questionNumber": 12,
+          "questionType": "sentence_completion",
+          "questionText": "What process is used to create chemically strengthened glass?",
+          "correctAnswer": "immersing in a potassium salt bath"
+        },
+        {
+          "questionNumber": 13,
+          "questionType": "sentence_completion",
+          "questionText": "By approximately how much does CO₂ emissions fall for every 10% of cullet used?",
+          "correctAnswer": "5%"
+        }
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "The Science of Decision-Making",
+      "passageText": "Section A\nFor much of the twentieth century, economists and psychologists operated under the assumption that human beings were fundamentally rational decision-makers — that when faced with a choice, individuals would systematically evaluate the available options and select whichever maximised their personal benefit. This model, known as the Rational Actor or Homo Economicus framework, underpinned classical economic theory for decades. Yet a growing body of research from the 1970s onwards began to reveal a far more complex and often contradictory picture of how people actually make choices.\n\nSection B\nPioneering research by psychologists Daniel Kahneman and Amos Tversky demonstrated that human judgment is riddled with systematic biases and heuristics — mental shortcuts that, while efficient, regularly lead to predictable errors. Their concept of 'prospect theory' showed that people do not evaluate outcomes in absolute terms but relative to a reference point, and crucially, that losses loom psychologically larger than equivalent gains. This phenomenon, known as 'loss aversion', has profound implications for fields as diverse as finance, public health policy, and retail marketing.\n\nSection C\nKahneman later popularised the distinction between two modes of thinking in his influential work: 'System 1' and 'System 2'. System 1 operates automatically and rapidly, drawing on intuition, emotion, and ingrained habits. It is the part of the brain that allows an experienced driver to navigate familiar roads without conscious effort, or that triggers an instinctive recoil from a perceived threat. System 2, in contrast, is deliberate, slow, and effortful — the mode we engage when solving a complex algebra problem or carefully composing a legal document. Kahneman argued that many of the errors people make stem from relying on System 1 when the situation actually demands the deeper reasoning of System 2.\n\nSection D\nThe concept of 'choice architecture' — the way in which the presentation and framing of options influences decisions — has become one of the most practically applied insights from behavioural economics. Research by Richard Thaler and Cass Sunstein demonstrated that subtle changes to how choices are presented, without restricting any options, could 'nudge' people towards more beneficial decisions. A classic example is the dramatic increase in employee pension enrolment rates when participation was set as the default option rather than something employees had to actively choose. By changing the 'opt-out' rather than 'opt-in' structure, organisations effectively harnessed the human tendency towards inertia.\n\nSection E\nNot all cognitive shortcuts lead to poor decisions, however. Gerd Gigerenzer, a German psychologist, has argued persuasively that heuristics are often highly effective strategies, particularly in uncertain or complex environments. He coined the term 'fast and frugal heuristics' to describe simple rules of thumb that, when applied appropriately, can match or even outperform more elaborate analytical approaches. For instance, studies of expert medical diagnosis have found that experienced doctors often make accurate diagnoses using fewer pieces of information than their less experienced counterparts — they have learned to identify the crucial signals and discard the irrelevant noise.\n\nSection F\nThe neurological basis of decision-making has also attracted significant scientific attention. Brain imaging studies have revealed that decisions involve a complex interplay between the prefrontal cortex — associated with rational planning and impulse control — and the limbic system, which governs emotional responses. Patients with damage to the ventromedial prefrontal cortex, a region crucial for integrating emotional information into decision-making, are often surprisingly poor decision-makers in real-life contexts despite performing normally on logic tests. These findings suggest that emotion is not merely an obstacle to rational choice, but an integral component of adaptive decision-making.\n\nSection G\nThe implications of decision-making research extend far beyond the academic sphere. Governments around the world have established 'nudge units' — teams of behavioural scientists tasked with applying the principles of behavioural economics to improve public outcomes in areas such as tax compliance, energy conservation, and healthy eating. Critics, however, warn that nudging raises serious ethical questions about manipulation and autonomy: if people can be steered towards certain choices without their full awareness, who decides which choices are 'good', and what safeguards exist against misuse by those in power?",
+      "questions": [
+        {
+          "questionNumber": 14,
+          "questionType": "matching_headings",
+          "questionText": "Section A",
+          "correctAnswer": "ii",
+          "instruction": "Choose the correct heading for each section from the list. Headings: i. Brain regions in choices, ii. Challenging rational behaviour, iii. Defence of mental shortcuts, iv. Default settings shape behaviour, v. Two modes of thought, vi. Ethical limits of behavioural science, vii. Systematic distortions in judgement, viii. Emotions aid rational thinking, ix. Origins of heuristic theory, x. Experts decide with less info"
+        },
+        {
+          "questionNumber": 15,
+          "questionType": "matching_headings",
+          "questionText": "Section B",
+          "correctAnswer": "vii"
+        },
+        {
+          "questionNumber": 16,
+          "questionType": "matching_headings",
+          "questionText": "Section C",
+          "correctAnswer": "v"
+        },
+        {
+          "questionNumber": 17,
+          "questionType": "matching_headings",
+          "questionText": "Section D",
+          "correctAnswer": "iv"
+        },
+        {
+          "questionNumber": 18,
+          "questionType": "matching_headings",
+          "questionText": "Section E",
+          "correctAnswer": "iii"
+        },
+        {
+          "questionNumber": 19,
+          "questionType": "matching_headings",
+          "questionText": "Section F",
+          "correctAnswer": "i"
+        },
+        {
+          "questionNumber": 20,
+          "questionType": "matching_headings",
+          "questionText": "Section G",
+          "correctAnswer": "vi"
+        },
+        {
+          "questionNumber": 21,
+          "questionType": "multiple_choice",
+          "questionText": "According to the passage, prospect theory shows that people",
+          "options": [
+            "always prefer larger gains over avoiding losses",
+            "judge outcomes relative to a reference point",
+            "are incapable of rational evaluation",
+            "base decisions entirely on expected financial return"
+          ],
+          "correctAnswer": "judge outcomes relative to a reference point"
+        },
+        {
+          "questionNumber": 22,
+          "questionType": "multiple_choice",
+          "questionText": "Which of the following best describes 'System 2' thinking according to Kahneman?",
+          "options": [
+            "fast, instinctive and emotionally driven",
+            "based primarily on past experience",
+            "slow, deliberate and requiring conscious effort",
+            "associated with the limbic system"
+          ],
+          "correctAnswer": "slow, deliberate and requiring conscious effort"
+        },
+        {
+          "questionNumber": 23,
+          "questionType": "multiple_choice",
+          "questionText": "The pension enrolment example is used to illustrate",
+          "options": [
+            "how inertia can be used to encourage beneficial behaviour",
+            "that people are generally poor at long-term financial planning",
+            "the importance of financial incentives in decision-making",
+            "how System 2 thinking can be triggered by default settings"
+          ],
+          "correctAnswer": "how inertia can be used to encourage beneficial behaviour"
+        },
+        {
+          "questionNumber": 24,
+          "questionType": "multiple_choice",
+          "questionText": "Gigerenzer's research suggests that heuristics",
+          "options": [
+            "are only appropriate in low-stakes situations",
+            "consistently perform worse than analytical methods",
+            "can sometimes outperform complex reasoning strategies",
+            "are used more by novices than by experts"
+          ],
+          "correctAnswer": "can sometimes outperform complex reasoning strategies"
+        },
+        {
+          "questionNumber": 25,
+          "questionType": "multiple_choice",
+          "questionText": "What do neurological studies suggest about the role of emotion in decision-making?",
+          "options": [
+            "It is an obstacle that rational planning must overcome",
+            "It is unnecessary for people with high intelligence",
+            "It is a necessary component of effective decision-making",
+            "It is controlled entirely by the prefrontal cortex"
+          ],
+          "correctAnswer": "It is a necessary component of effective decision-making"
+        },
+        {
+          "questionNumber": 26,
+          "questionType": "multiple_choice",
+          "questionText": "The main concern raised by critics of nudge units is that",
+          "options": [
+            "nudging is too expensive to implement at a government level",
+            "people may be influenced towards certain choices without realising it",
+            "nudging has not been proven to work outside laboratory settings",
+            "behavioural scientists lack the authority to set public policy"
+          ],
+          "correctAnswer": "people may be influenced towards certain choices without realising it"
+        }
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Biodiversity and Ecosystem Services: Understanding Nature's Economy",
+      "passageText": "The natural world provides humanity with a vast array of benefits that economists and ecologists have collectively termed 'ecosystem services'. These services range from the tangible and directly consumable — fresh water, timber, fish, and medicinal compounds — to the less visible but equally critical: climate regulation, soil formation, pollination, flood mitigation, and the natural breakdown of waste. Until relatively recently, these services were largely treated by mainstream economics as 'externalities' — costs and benefits that occurred outside the market system and were therefore assigned no monetary value.\n\nThe concept of formally valuing ecosystem services gained significant momentum following the publication of the Millennium Ecosystem Assessment (MEA) in 2005, a landmark study involving over 1,300 scientists from 95 countries. The MEA classified ecosystem services into four broad categories: provisioning services (the production of food, water, and raw materials), regulating services (climate regulation, flood control, disease management), cultural services (recreation, aesthetic value, spiritual significance), and supporting services (nutrient cycling, soil formation, primary production). The report concluded that approximately 60% of the ecosystem services examined had been significantly degraded over the preceding fifty years — a finding that provoked widespread concern across scientific and policy communities.\n\nBiodiversity — the variety of life on Earth at the genetic, species, and ecosystem levels — is widely recognised as the foundation upon which ecosystem services rest. The relationship, however, is not simply linear: a highly biodiverse ecosystem is not guaranteed to be more productive than a less diverse one in any single measurable function. Rather, biodiversity provides resilience — the capacity of a system to absorb disturbance and reorganise while undergoing change. An ecosystem with high biodiversity has, in effect, a larger reservoir of species and functional roles from which to draw when some components are lost or compromised. This 'insurance effect' is analogous to a diversified financial portfolio: no single component dominates, and the loss of one does not precipitate total collapse.\n\nThe economic valuation of biodiversity and ecosystem services has proved both controversial and methodologically challenging. Critics from within economics argue that assigning monetary values to nature risks distorting priorities — that services without clear economic value may be neglected, and that once nature enters the market, its protection becomes contingent on profitability. Proponents counter that in a world where political and corporate decisions are largely driven by economic metrics, failing to quantify the value of nature is itself a political act that consistently leads to its destruction. A frequently cited study by Costanza et al. estimated the global value of ecosystem services at $33 trillion per year — a figure comparable to the entire global GDP at the time of publication, though the methodology behind this estimate has attracted sustained academic debate.\n\nConservation efforts have historically focused on the protection of individual species, particularly those deemed charismatic or economically important. However, ecologists have increasingly argued for an ecosystem-level or landscape-level approach to conservation, which seeks to protect the processes and interactions that allow biodiversity to be maintained over time. This shift in thinking is reflected in the growing interest in 'rewilding' — a conservation strategy that involves removing human management from degraded ecosystems and allowing natural processes to restore biodiversity. High-profile rewilding projects in Scotland, the Netherlands, and Yellowstone National Park have demonstrated that the reintroduction of apex predators such as wolves and beavers can trigger dramatic cascade effects that reshape entire landscapes.\n\nDespite growing awareness, the rate of biodiversity loss continues to accelerate. The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) reported in 2019 that approximately one million species are currently threatened with extinction — a rate of loss estimated to be between ten and one hundred times higher than the natural background rate. The primary drivers identified include habitat destruction (particularly through agricultural expansion), overexploitation of species, climate change, pollution, and the spread of invasive species. Addressing this crisis, the IPBES report concluded, would require 'transformative change' — not merely incremental improvements to existing conservation policies, but fundamental shifts in the economic, social, and political systems that currently incentivise environmental destruction.",
+      "questions": [
+        {
+          "questionNumber": 27,
+          "questionType": "matching_headings",
+          "questionText": "A comparison between biodiversity and a strategy used in financial investment.",
+          "correctAnswer": "3",
+          "instruction": "Which paragraph (1-6) contains the following information? You may use any paragraph more than once."
+        },
+        {
+          "questionNumber": 28,
+          "questionType": "matching_headings",
+          "questionText": "A description of the different categories into which ecosystem benefits were classified.",
+          "correctAnswer": "2"
+        },
+        {
+          "questionNumber": 29,
+          "questionType": "matching_headings",
+          "questionText": "A suggestion that simply counting species is an insufficient approach to protecting the natural world.",
+          "correctAnswer": "5"
+        },
+        {
+          "questionNumber": 30,
+          "questionType": "matching_headings",
+          "questionText": "A reference to a scientific estimate of the monetary worth of services provided by nature.",
+          "correctAnswer": "4"
+        },
+        {
+          "questionNumber": 31,
+          "questionType": "matching_headings",
+          "questionText": "An argument that ignoring the economic value of nature leads to its destruction.",
+          "correctAnswer": "4"
+        },
+        {
+          "questionNumber": 32,
+          "questionType": "matching_headings",
+          "questionText": "Evidence that reintroducing animals can fundamentally alter a landscape.",
+          "correctAnswer": "5"
+        },
+        {
+          "questionNumber": 33,
+          "questionType": "matching_headings",
+          "questionText": "A claim that the speed at which species are disappearing is far beyond normal historical levels.",
+          "correctAnswer": "6"
+        },
+        {
+          "questionNumber": 34,
+          "questionType": "true_false_not_given",
+          "questionText": "Ecosystem services were considered economically insignificant by mainstream economics until recently.",
+          "correctAnswer": "TRUE",
+          "instruction": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees, NO if it contradicts, NOT GIVEN if impossible to say."
+        },
+        {
+          "questionNumber": 35,
+          "questionType": "true_false_not_given",
+          "questionText": "The Millennium Ecosystem Assessment was produced by a relatively small group of researchers.",
+          "correctAnswer": "FALSE"
+        },
+        {
+          "questionNumber": 36,
+          "questionType": "true_false_not_given",
+          "questionText": "A biodiverse ecosystem will always be more productive than one with fewer species.",
+          "correctAnswer": "FALSE"
+        },
+        {
+          "questionNumber": 37,
+          "questionType": "true_false_not_given",
+          "questionText": "The writer believes the economic valuation of nature is a straightforward process.",
+          "correctAnswer": "FALSE"
+        },
+        {
+          "questionNumber": 38,
+          "questionType": "true_false_not_given",
+          "questionText": "Rewilding as a conservation strategy is now universally accepted among ecologists.",
+          "correctAnswer": "NOT GIVEN"
+        },
+        {
+          "questionNumber": 39,
+          "questionType": "true_false_not_given",
+          "questionText": "Agricultural expansion is identified as the leading cause of current biodiversity loss.",
+          "correctAnswer": "TRUE"
+        },
+        {
+          "questionNumber": 40,
+          "questionType": "true_false_not_given",
+          "questionText": "The IPBES report suggests that minor policy adjustments will be sufficient to prevent further species loss.",
+          "correctAnswer": "FALSE"
+        }
+      ]
+    }
+  ],
+  "writingTasks": [
+    {
+      "taskNumber": 1,
+      "instruction": "You should spend about 20 minutes on this task. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "questionText": "The bar chart below shows the percentage of households in four countries (Brazil, Germany, Japan, and South Africa) that had access to the internet in three different years: 2005, 2012, and 2019.\n\nData:\n- 2005: Brazil 14%, Germany 65%, Japan 66%, South Africa 8%\n- 2012: Brazil 42%, Germany 82%, Japan 80%, South Africa 24%\n- 2019: Brazil 71%, Germany 91%, Japan 90%, South Africa 56%\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "wordLimit": 150,
+      "imageUrl": ""
+    },
+    {
+      "taskNumber": 2,
+      "instruction": "You should spend about 40 minutes on this task. Write about the following topic. Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+      "questionText": "Some people believe that universities should focus primarily on providing students with academic knowledge and theoretical skills. Others argue that universities should also prepare students for the practical demands of the workplace.\n\nDiscuss both views and give your own opinion.",
+      "wordLimit": 250
+    }
+  ]
+}

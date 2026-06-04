@@ -1,0 +1,88 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:16-alpine
+    container_name: ielts-postgres
+    environment:
+      POSTGRES_DB: ielts_platform
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - ielts-network
+
+  # NestJS API
+  api:
+    build:
+      context: ./apps/api-nestjs
+      dockerfile: ../../docker/api.Dockerfile
+    container_name: ielts-api
+    environment:
+      - NODE_ENV=development
+      - PORT=4000
+      - DATABASE_HOST=postgres
+      - DATABASE_PORT=5432
+      - DATABASE_USER=postgres
+      - DATABASE_PASSWORD=postgres
+      - DATABASE_NAME=ielts_platform
+      - JWT_SECRET=your-super-secret-jwt-key
+      - NEXTJS_URL=http://localhost:3000
+      - DJANGO_URL=http://localhost:8000
+    ports:
+      - "4000:4000"
+    depends_on:
+      - postgres
+    volumes:
+      - ./apps/api-nestjs:/app
+      - /app/node_modules
+    networks:
+      - ielts-network
+    command: npm run start:dev
+
+  # Django Exam System
+  django:
+    build:
+      context: ./apps/exam-django
+      dockerfile: ../../docker/django.Dockerfile
+    container_name: ielts-django
+    environment:
+      - SECRET_KEY=your-super-secret-django-key
+      - DEBUG=True
+      - DB_NAME=ielts_platform
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - JWT_SECRET=your-super-secret-jwt-key
+      - NESTJS_API_URL=http://api:4000
+      - NEXTJS_URL=http://localhost:3000
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+    volumes:
+      - ./apps/exam-django:/app
+    networks:
+      - ielts-network
+    command: python manage.py runserver 0.0.0.0:8000
+
+  # Redis (for caching - optional)
+  redis:
+    image: redis:7-alpine
+    container_name: ielts-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - ielts-network
+
+volumes:
+  postgres_data:
+
+networks:
+  ielts-network:
+    driver: bridge

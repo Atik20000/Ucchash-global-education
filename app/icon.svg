@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ucchash Global Education">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14593a"/>
+      <stop offset="55%" stop-color="#0F5132"/>
+      <stop offset="100%" stop-color="#0a3a23"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E6BD78"/>
+      <stop offset="60%" stop-color="#D4A24C"/>
+      <stop offset="100%" stop-color="#B2823A"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Tile -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#bg)"/>
+  <rect x="2" y="2" width="60" height="32" rx="14" fill="url(#shine)"/>
+
+  <!-- Inner gold border -->
+  <rect x="4.5" y="4.5" width="55" height="55" rx="11.5" fill="none" stroke="url(#gold)" stroke-opacity="0.35" stroke-width="1"/>
+
+  <!-- Letter U (Playfair-inspired serif) -->
+  <path d="M 18 18
+           L 18 38
+           C 18 46 24 50 32 50
+           C 40 50 46 46 46 38
+           L 46 18
+           L 41 18
+           L 41 38
+           C 41 43 37 46 32 46
+           C 27 46 23 43 23 38
+           L 23 18 Z"
+        fill="url(#gold)"/>
+
+  <!-- Underline accent -->
+  <rect x="22" y="54" width="20" height="1.8" rx="0.9" fill="url(#gold)" opacity="0.85"/>
+</svg>

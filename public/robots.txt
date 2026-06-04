@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin and api routes
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://ucchash.com/sitemap.xml

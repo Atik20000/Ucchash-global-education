@@ -1,0 +1,12 @@
+# Ignore Django template files to preserve template tag syntax
+apps/exam-django/templates/**/*.html
+*.html
+
+# Don't format Python files (handled by Black/autopep8)
+*.py
+
+# Ignore build outputs
+dist/
+build/
+.next/
+node_modules/

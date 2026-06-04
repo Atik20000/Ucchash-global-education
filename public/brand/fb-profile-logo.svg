@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Ucchash Global Education">
+  <title>Ucchash Global Education — Profile Logo</title>
+
+  <defs>
+    <!-- Emerald background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14593a"/>
+      <stop offset="55%" stop-color="#0F5132"/>
+      <stop offset="100%" stop-color="#082c1c"/>
+    </linearGradient>
+
+    <!-- Radial highlight -->
+    <radialGradient id="glow" cx="0.28" cy="0.18" r="0.7">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Gold gradient -->
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0CB87"/>
+      <stop offset="45%" stop-color="#E6BD78"/>
+      <stop offset="70%" stop-color="#D4A24C"/>
+      <stop offset="100%" stop-color="#A87523"/>
+    </linearGradient>
+
+    <!-- Subtle inner shadow -->
+    <linearGradient id="innerShade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.28"/>
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Grid pattern (very subtle) -->
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 L 0 0 0 64" fill="none" stroke="#D4A24C" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Square tile (Facebook crops to circle for profile but full square shows in posts) -->
+  <rect width="1024" height="1024" rx="160" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="160" fill="url(#grid)"/>
+  <rect width="1024" height="1024" rx="160" fill="url(#glow)"/>
+  <rect width="1024" height="1024" rx="160" fill="url(#innerShade)"/>
+
+  <!-- Gold ring border (inset) -->
+  <rect x="56" y="56" width="912" height="912" rx="124" fill="none" stroke="url(#gold)" stroke-opacity="0.35" stroke-width="3"/>
+  <rect x="72" y="72" width="880" height="880" rx="116" fill="none" stroke="url(#gold)" stroke-opacity="0.18" stroke-width="1"/>
+
+  <!-- Decorative top gold arc dots -->
+  <g opacity="0.85">
+    <circle cx="362" cy="220" r="4" fill="url(#gold)"/>
+    <circle cx="512" cy="208" r="5" fill="url(#gold)"/>
+    <circle cx="662" cy="220" r="4" fill="url(#gold)"/>
+  </g>
+
+  <!-- Serif U (Playfair-inspired) — large, centered -->
+  <!-- Constructed manually so it scales perfectly without font dependencies -->
+  <g transform="translate(512 540)">
+    <!-- Outer U shape -->
+    <path d="M -200 -240
+             L -200 80
+             C -200 200 -110 280 0 280
+             C 110 280 200 200 200 80
+             L 200 -240
+             L 140 -240
+             L 140 80
+             C 140 160 80 220 0 220
+             C -80 220 -140 160 -140 80
+             L -140 -240 Z"
+          fill="url(#gold)"/>
+
+    <!-- Small serif on top-left -->
+    <rect x="-230" y="-240" width="60" height="14" rx="3" fill="url(#gold)"/>
+    <rect x="-150" y="-240" width="60" height="14" rx="3" fill="url(#gold)"/>
+    <!-- Small serif on top-right -->
+    <rect x="90" y="-240" width="60" height="14" rx="3" fill="url(#gold)"/>
+    <rect x="170" y="-240" width="60" height="14" rx="3" fill="url(#gold)"/>
+  </g>
+
+  <!-- Wordmark below -->
+  <g text-anchor="middle">
+    <text x="512" y="880"
+          font-family="Georgia, 'Playfair Display', serif"
+          font-weight="700"
+          font-size="78"
+          letter-spacing="14"
+          fill="#FAF8F3">UCCHASH</text>
+    <text x="512" y="942"
+          font-family="Inter, system-ui, sans-serif"
+          font-weight="600"
+          font-size="34"
+          letter-spacing="13"
+          fill="url(#gold)">GLOBAL EDUCATION</text>
+  </g>
+
+  <!-- Bottom gold accent line -->
+  <g opacity="0.85">
+    <rect x="370" y="800" width="80" height="2.5" rx="1" fill="url(#gold)"/>
+    <circle cx="512" cy="801" r="4" fill="url(#gold)"/>
+    <rect x="574" y="800" width="80" height="2.5" rx="1" fill="url(#gold)"/>
+  </g>
+</svg>

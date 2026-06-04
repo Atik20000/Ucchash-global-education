@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Ucchash Global Education">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14593a"/>
+      <stop offset="55%" stop-color="#0F5132"/>
+      <stop offset="100%" stop-color="#0a3a23"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E6BD78"/>
+      <stop offset="60%" stop-color="#D4A24C"/>
+      <stop offset="100%" stop-color="#B2823A"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Apple uses square; full-bleed -->
+  <rect width="180" height="180" rx="40" fill="url(#bg)"/>
+  <rect width="180" height="100" rx="40" fill="url(#shine)"/>
+
+  <!-- Inner gold border -->
+  <rect x="10" y="10" width="160" height="160" rx="32" fill="none" stroke="url(#gold)" stroke-opacity="0.4" stroke-width="2"/>
+
+  <!-- Letter U (large, centered) -->
+  <path d="M 55 50
+           L 55 108
+           C 55 130 70 142 90 142
+           C 110 142 125 130 125 108
+           L 125 50
+           L 110 50
+           L 110 108
+           C 110 120 102 128 90 128
+           C 78 128 70 120 70 108
+           L 70 50 Z"
+        fill="url(#gold)"/>
+
+  <!-- Underline accent -->
+  <rect x="65" y="153" width="50" height="4.5" rx="2.25" fill="url(#gold)" opacity="0.9"/>
+</svg>

@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 624" role="img" aria-label="Ucchash Global Education — Master IELTS, Study Abroad with Confidence">
+  <title>Ucchash Global Education — Facebook Cover</title>
+
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a3a23"/>
+      <stop offset="55%" stop-color="#0F5132"/>
+      <stop offset="100%" stop-color="#082c1c"/>
+    </linearGradient>
+
+    <!-- Soft glow -->
+    <radialGradient id="halo1" cx="0.18" cy="0.5" r="0.6">
+      <stop offset="0%" stop-color="#D4A24C" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#D4A24C" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#D4A24C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo2" cx="0.85" cy="0.3" r="0.55">
+      <stop offset="0%" stop-color="#14593a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#14593a" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Gold -->
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0CB87"/>
+      <stop offset="45%" stop-color="#E6BD78"/>
+      <stop offset="70%" stop-color="#D4A24C"/>
+      <stop offset="100%" stop-color="#A87523"/>
+    </linearGradient>
+
+    <linearGradient id="goldSoft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D4A24C" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4A24C" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#D4A24C" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Subtle grid -->
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#D4A24C" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+
+    <!-- Inner top shine -->
+    <linearGradient id="topShine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1640" height="624" fill="url(#bg)"/>
+  <rect width="1640" height="624" fill="url(#grid)"/>
+  <rect width="1640" height="624" fill="url(#halo1)"/>
+  <rect width="1640" height="624" fill="url(#halo2)"/>
+  <rect width="1640" height="180" fill="url(#topShine)"/>
+
+  <!-- Top gold edge line -->
+  <rect x="0" y="0" width="1640" height="2" fill="url(#goldSoft)"/>
+  <rect x="0" y="622" width="1640" height="2" fill="url(#goldSoft)"/>
+
+  <!-- ============================================================ -->
+  <!-- LEFT BLOCK: brand + headline + proof                          -->
+  <!-- Safe zone for mobile: roughly center 1300x540                 -->
+  <!-- ============================================================ -->
+
+  <!-- Small brand mark, top-left -->
+  <g transform="translate(140 90)">
+    <!-- Small tile -->
+    <rect width="76" height="76" rx="18" fill="#0F5132" stroke="url(#gold)" stroke-opacity="0.45" stroke-width="1.5"/>
+    <!-- Mini U inside -->
+    <path d="M 22 22 L 22 46 C 22 56 28 60 38 60 C 48 60 54 56 54 46 L 54 22 L 48 22 L 48 46 C 48 52 44 56 38 56 C 32 56 28 52 28 46 L 28 22 Z"
+          fill="url(#gold)"/>
+    <!-- Wordmark next to tile -->
+    <text x="96" y="38"
+          font-family="Georgia, 'Playfair Display', serif"
+          font-weight="700"
+          font-size="32"
+          fill="#FAF8F3">Ucchash<tspan fill="#E6BD78" font-style="italic" font-weight="500"> Global</tspan></text>
+    <text x="96" y="64"
+          font-family="Inter, system-ui, sans-serif"
+          font-weight="600"
+          font-size="13"
+          letter-spacing="4.5"
+          fill="#E6BD78" fill-opacity="0.92">EDUCATION</text>
+  </g>
+
+  <!-- Decorative top tag -->
+  <g transform="translate(140 220)">
+    <rect x="0" y="0" width="290" height="36" rx="18"
+          fill="#D4A24C" fill-opacity="0.1"
+          stroke="url(#gold)" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="22" cy="18" r="3" fill="url(#gold)"/>
+    <text x="42" y="24"
+          font-family="Inter, system-ui, sans-serif"
+          font-weight="700"
+          font-size="13"
+          letter-spacing="3.2"
+          fill="url(#gold)">PREMIUM IELTS COACHING</text>
+  </g>
+
+  <!-- Headline (Playfair-style) -->
+  <g transform="translate(140 285)">
+    <text font-family="Georgia, 'Playfair Display', serif"
+          font-weight="700"
+          font-size="74"
+          fill="#FAF8F3"
+          letter-spacing="-1.5">
+      <tspan x="0" dy="0">Master IELTS.</tspan>
+      <tspan x="0" dy="86" font-style="italic" font-weight="500">Study Abroad</tspan>
+      <tspan x="0" dy="84" fill="#E6BD78">with Confidence.</tspan>
+    </text>
+  </g>
+
+  <!-- Gold rule under headline -->
+  <rect x="140" y="555" width="140" height="3" rx="1.5" fill="url(#gold)"/>
+
+  <!-- ============================================================ -->
+  <!-- PROOF CHIPS row (bottom-left)                                 -->
+  <!-- ============================================================ -->
+  <g transform="translate(140 580)">
+    <!-- 95% Visa Success -->
+    <g>
+      <rect x="0" y="0" width="220" height="34" rx="17"
+            fill="#0F5132" fill-opacity="0.7"
+            stroke="url(#gold)" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="18" y="22"
+            font-family="Inter, system-ui, sans-serif"
+            font-weight="700"
+            font-size="14"
+            fill="#E6BD78">95%</text>
+      <text x="58" y="22"
+            font-family="Inter, system-ui, sans-serif"
+            font-weight="500"
+            font-size="13"
+            fill="#FAF8F3" fill-opacity="0.95">Visa Success Rate</text>
+    </g>
+
+    <!-- 500+ Students Placed -->
+    <g transform="translate(240 0)">
+      <rect x="0" y="0" width="225" height="34" rx="17"
+            fill="#0F5132" fill-opacity="0.7"
+            stroke="url(#gold)" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="18" y="22"
+            font-family="Inter, system-ui, sans-serif"
+            font-weight="700"
+            font-size="14"
+            fill="#E6BD78">500+</text>
+      <text x="65" y="22"
+            font-family="Inter, system-ui, sans-serif"
+            font-weight="500"
+            font-size="13"
+            fill="#FAF8F3" fill-opacity="0.95">Students Placed</text>
+    </g>
+
+    <!-- 4.9 Avg Rating -->
+    <g transform="translate(485 0)">
+      <rect x="0" y="0" width="215" height="34" rx="17"
+            fill="#0F5132" fill-opacity="0.7"
+            stroke="url(#gold)" stroke-opacity="0.4" stroke-width="1"/>
+      <!-- Star -->
+      <path d="M 22 11 L 24.3 16.3 L 30 16.9 L 25.8 20.7 L 27 26.4 L 22 23.4 L 17 26.4 L 18.2 20.7 L 14 16.9 L 19.7 16.3 Z"
+            fill="url(#gold)"/>
+      <text x="38" y="22"
+            font-family="Inter, system-ui, sans-serif"
+            font-weight="700"
+            font-size="14"
+            fill="#E6BD78">4.9</text>
+      <text x="68" y="22"
+            font-family="Inter, system-ui, sans-serif"
+            font-weight="500"
+            font-size="13"
+            fill="#FAF8F3" fill-opacity="0.95">Avg. Student Rating</text>
+    </g>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- RIGHT BLOCK: ornamental big U                                 -->
+  <!-- ============================================================ -->
+  <g transform="translate(1180 312)" opacity="0.95">
+    <!-- Soft halo behind -->
+    <circle r="240" fill="url(#halo1)" opacity="0.6"/>
+    <!-- Outer thin ring -->
+    <circle r="220" fill="none" stroke="url(#gold)" stroke-opacity="0.25" stroke-width="1.5"/>
+    <circle r="210" fill="none" stroke="url(#gold)" stroke-opacity="0.12" stroke-width="1"/>
+
+    <!-- Big serif U -->
+    <g transform="translate(0 24)">
+      <path d="M -130 -160
+               L -130 50
+               C -130 130 -70 180 0 180
+               C 70 180 130 130 130 50
+               L 130 -160
+               L 90 -160
+               L 90 50
+               C 90 100 50 140 0 140
+               C -50 140 -90 100 -90 50
+               L -90 -160 Z"
+            fill="url(#gold)"/>
+      <!-- Tiny serifs -->
+      <rect x="-152" y="-160" width="40" height="10" rx="2" fill="url(#gold)"/>
+      <rect x="-100" y="-160" width="40" height="10" rx="2" fill="url(#gold)"/>
+      <rect x="60" y="-160" width="40" height="10" rx="2" fill="url(#gold)"/>
+      <rect x="112" y="-160" width="40" height="10" rx="2" fill="url(#gold)"/>
+    </g>
+
+    <!-- Decorative dots around -->
+    <g fill="url(#gold)" opacity="0.85">
+      <circle cx="-205" cy="0" r="3"/>
+      <circle cx="205" cy="0" r="3"/>
+      <circle cx="0" cy="-205" r="3"/>
+      <circle cx="0" cy="205" r="3"/>
+    </g>
+
+    <!-- Below: tagline -->
+    <text x="0" y="280"
+          text-anchor="middle"
+          font-family="Inter, system-ui, sans-serif"
+          font-style="italic"
+          font-weight="500"
+          font-size="14"
+          letter-spacing="4"
+          fill="#E6BD78" fill-opacity="0.85">IELTS EXPERTS · ABROAD GUIDANCE</text>
+  </g>
+
+  <!-- Decorative corner ornaments -->
+  <g opacity="0.5">
+    <!-- Top-right -->
+    <rect x="1538" y="58" width="44" height="2" fill="url(#gold)"/>
+    <rect x="1580" y="58" width="2" height="44" fill="url(#gold)"/>
+    <!-- Bottom-left -->
+    <rect x="58" y="562" width="44" height="2" fill="url(#gold)"/>
+    <rect x="58" y="520" width="2" height="44" fill="url(#gold)"/>
+  </g>
+</svg>
