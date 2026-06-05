@@ -65,8 +65,12 @@ function getEnvUrl(name: string, fallbackPath: string): string {
 }
 
 export const VOCAVOLT_ENDPOINTS = {
-  login: getEnvUrl("NEXT_PUBLIC_VOCAVOLT_LOGIN_PATH", DEFAULT_LOGIN_PATH),
-  tests: getEnvUrl("NEXT_PUBLIC_VOCAVOLT_TESTS_PATH", DEFAULT_TESTS_PATH),
+  get login() {
+    return getEnvUrl("NEXT_PUBLIC_VOCAVOLT_LOGIN_PATH", DEFAULT_LOGIN_PATH)
+  },
+  get tests() {
+    return getEnvUrl("NEXT_PUBLIC_VOCAVOLT_TESTS_PATH", DEFAULT_TESTS_PATH)
+  },
 } as const
 
 export function getStoredPortalToken(): string | null {
