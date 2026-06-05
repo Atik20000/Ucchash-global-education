@@ -2,16 +2,12 @@
   "name": "ucchash-ielts-platform",
   "version": "1.0.0",
   "private": true,
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "clean": "rm -rf .next .turbo"
+    "clean": "rm -rf .next"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.2",
